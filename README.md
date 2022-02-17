@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá pessoas 👋
 
 
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estou cursando Analise e desenvolvimento de sistemas
+- 🌱 Estou cursando Análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/Nitilima">
