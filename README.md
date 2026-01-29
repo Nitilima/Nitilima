@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estou cursando Análise e desenvolvimento de sistemas
+- 🔭 Desenvolvedora full stack
 
 <div align="center">
   <a href="https://github.com/Nitilima">
