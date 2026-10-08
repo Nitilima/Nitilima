@@ -1,10 +1,13 @@
 ### Olá pessoas 👋
-- 🔭 Desenvolvedora full stack
+
+- 🔭 Desenvolvedora FullStack
+- 🛡️ Estudando Cibersegurança
+- 💻 Trabalhando com Vue, Python, Docker, AWS
+- 🌱 Explorando Cloud Security e Infrastructure as Code
 
 <div align="center">
   <a href="https://github.com/Nitilima">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitilima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitilima&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitilima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
@@ -28,10 +31,14 @@
   
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
   
 </div>
 
