@@ -5,15 +5,6 @@
 - 💻 Trabalhando com Vue, Python, Docker, AWS
 - 🌱 Explorando Cloud Security e Infrastructure as Code
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitilima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitilima&layout=compact&langs_count=7&theme=dark"/></td>
-    </tr>
-  </table>
-</div>
-
 ##
 
 ### 🚀 Tecnologias e Ferramentas
